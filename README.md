@@ -6,7 +6,7 @@
 
 ## 安装
 
-在 Dalamud 的插件安装器中添加下面的自定义仓库地址，然后搜索“同模幻化浏览器”安装：
+在 Dalamud 的插件安装器中添加下面的自定义仓库地址，然后搜索“GlamourModelBrowser”安装：
 
 ```text
 https://raw.githubusercontent.com/EITecYi/GlamourModelBrowser/main/repo.json
