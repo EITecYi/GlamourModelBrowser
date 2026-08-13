@@ -1,5 +1,5 @@
 {
-  "Author": "GlamourModelBrowser",
+  "Author": "EITecYi",
   "Name": "Glamour Model Browser",
   "Punchline": "在试穿窗口中查找同模型装备并用默语展示物品链接。",
   "Description": "在 FFXIV 试穿界面显示同模型装备，点击图标即可将物品链接发送到默语频道。",
@@ -10,7 +10,7 @@
   ],
   "ApplicableVersion": "any",
   "InternalName": "GlamourModelBrowser",
-  "AssemblyVersion": "0.1.0.0",
-  "RepoUrl": "",
-  "IconUrl": ""
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/EITecYi/GlamourModelBrowser",
+  "IconUrl": "https://raw.githubusercontent.com/EITecYi/GlamourModelBrowser/main/GlamourModelBrowser.png"
 }
