@@ -4,6 +4,16 @@
 
 支持普通试穿、投影模板和幻化柜。找到结果后，点击物品图标，就会在聊天框的默语（`/e`）中显示该装备的可点击物品链接，方便继续查看和比较。
 
+## 安装
+
+在 Dalamud 的插件安装器中添加下面的自定义仓库地址，然后搜索“同模幻化浏览器”安装：
+
+```text
+https://raw.githubusercontent.com/EITecYi/GlamourModelBrowser/main/repo.json
+```
+
+仓库文件也可以在 GitHub 查看：[repo.json](https://github.com/EITecYi/GlamourModelBrowser/blob/main/repo.json)。
+
 ## 怎么用
 
 1. 在游戏里打开一件装备的**试穿**界面。
