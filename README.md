@@ -1,12 +1,16 @@
 # 同模幻化浏览器
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EITecYi/GlamourModelBrowser/main/GlamourModelBrowser.png" alt="同模幻化浏览器图标" width="220">
+</p>
+
 在试穿装备时，帮你找出外观相同的其他装备。
 
 支持普通试穿、投影模板和幻化柜。找到结果后，点击物品图标，就会在聊天框的默语（`/e`）中显示该装备的可点击物品链接，方便继续查看和比较。
 
 ## 安装
 
-在 Dalamud 的插件安装器中添加下面的自定义仓库地址，然后搜索“GlamourModelBrowser”安装：
+在 Dalamud 的插件安装器中添加下面的自定义仓库地址，然后搜索“同模幻化浏览器”安装：
 
 ```text
 https://raw.githubusercontent.com/EITecYi/GlamourModelBrowser/main/repo.json
