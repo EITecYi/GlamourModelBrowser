@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "EITecYi",
+    "Name": "同模幻化浏览器",
+    "Punchline": "在试穿窗口中查找同模型装备，并在默语中展示物品链接。",
+    "Description": "在最终幻想 XIV 的普通试穿、投影模板和幻化柜预览中读取当前装备，使用本机客户端 Item 数据查找同模型装备。结果包含当前装备本身，点击图标可在默语频道显示可点击物品链接。",
+    "Tags": [
+      "glamour",
+      "tryon",
+      "items",
+      "幻化",
+      "试穿",
+      "同模"
+    ],
+    "ApplicableVersion": "any",
+    "InternalName": "GlamourModelBrowser",
+    "AssemblyVersion": "1.0.0.0",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/EITecYi/GlamourModelBrowser",
+    "DownloadLinkInstall": "https://github.com/EITecYi/GlamourModelBrowser/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/EITecYi/GlamourModelBrowser/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/EITecYi/GlamourModelBrowser/releases/download/v1.0.0/latest.zip",
+    "IsHide": "False",
+    "IsTestingExclusive": "False"
+  }
+]
